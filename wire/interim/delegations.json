@@ -1,0 +1,10 @@
+[
+  {
+    "ref": "MOVE8",
+    "old_game": "G2",
+    "new_game": "G1",
+    "official": "O3",
+    "receiving_decision": "confirmed",
+    "releasing_decision": "pending"
+  }
+]

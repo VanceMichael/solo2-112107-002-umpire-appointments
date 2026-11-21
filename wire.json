@@ -40,6 +40,10 @@
       "fees": {
         "name": "opening/fees.json",
         "type": "application/json"
+      },
+      "delegations": {
+        "name": "opening/delegations.json",
+        "type": "application/json"
       }
     },
     "interim": {
@@ -80,6 +84,10 @@
       },
       "fees": {
         "name": "interim/fees.json",
+        "type": "application/json"
+      },
+      "delegations": {
+        "name": "interim/delegations.json",
         "type": "application/json"
       }
     },
@@ -122,6 +130,10 @@
       },
       "fees": {
         "name": "confirmed/fees.json",
+        "type": "application/json"
+      },
+      "delegations": {
+        "name": "confirmed/delegations.json",
         "type": "application/json"
       }
     }
