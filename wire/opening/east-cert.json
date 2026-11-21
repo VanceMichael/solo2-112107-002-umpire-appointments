@@ -1,0 +1,18 @@
+[
+  {
+    "official": "O2",
+    "level": "district",
+    "rules": "softball",
+    "from_day": "2026-11-20",
+    "through": "2026-12-31",
+    "revoked_day": null
+  },
+  {
+    "official": "O3",
+    "level": "district",
+    "rules": "softball",
+    "from_day": "2026-11-20",
+    "through": "2026-12-31",
+    "revoked_day": null
+  }
+]

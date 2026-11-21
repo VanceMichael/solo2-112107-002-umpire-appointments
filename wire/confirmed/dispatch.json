@@ -1,0 +1,16 @@
+[
+  {
+    "ref": "A1",
+    "game": "G1",
+    "association": "n",
+    "official": "N-A",
+    "state": "assigned"
+  },
+  {
+    "ref": "A2",
+    "game": "G2",
+    "association": "e",
+    "official": "E-C",
+    "state": "confirmed"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "association": "n",
+    "alias": "N-A",
+    "id": "O1"
+  },
+  {
+    "association": "e",
+    "alias": "E-A",
+    "id": "O1"
+  },
+  {
+    "association": "e",
+    "alias": "E-B",
+    "id": "O2"
+  },
+  {
+    "association": "e",
+    "alias": "E-C",
+    "id": "O3"
+  }
+]

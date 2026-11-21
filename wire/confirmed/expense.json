@@ -1,0 +1,11 @@
+[
+  {
+    "ledger": "PAY1",
+    "official": "O2",
+    "game": "G1",
+    "from_time": "2026-12-01T09:50+08:00",
+    "to_time": "2026-12-01T12:00+08:00",
+    "fen": 19500,
+    "state": "confirmed"
+  }
+]

@@ -1,0 +1,149 @@
+{
+  "releases": {
+    "opening": {
+      "schedule": {
+        "name": "opening/schedule.json",
+        "type": "application/json"
+      },
+      "dispatch": {
+        "name": "opening/dispatch.json",
+        "type": "application/json"
+      },
+      "roster": {
+        "name": "opening/roster.json",
+        "type": "application/json"
+      },
+      "license-index": {
+        "name": "opening/license-index.json",
+        "type": "application/json"
+      },
+      "north-cert": {
+        "name": "opening/north-cert.json",
+        "type": "application/json"
+      },
+      "east-cert": {
+        "name": "opening/east-cert.json",
+        "type": "application/json"
+      },
+      "travel": {
+        "name": "opening/travel.json",
+        "type": "application/json"
+      },
+      "attendance": {
+        "name": "opening/attendance.json",
+        "type": "application/json"
+      },
+      "expense": {
+        "name": "opening/expense.json",
+        "type": "application/json"
+      },
+      "fees": {
+        "name": "opening/fees.json",
+        "type": "application/json"
+      }
+    },
+    "interim": {
+      "schedule": {
+        "name": "interim/schedule.json",
+        "type": "application/json"
+      },
+      "dispatch": {
+        "name": "interim/dispatch.json",
+        "type": "application/json"
+      },
+      "roster": {
+        "name": "interim/roster.json",
+        "type": "application/json"
+      },
+      "license-index": {
+        "name": "interim/license-index.json",
+        "type": "application/json"
+      },
+      "north-cert": {
+        "name": "interim/north-cert.json",
+        "type": "application/json"
+      },
+      "east-cert": {
+        "status": 503
+      },
+      "travel": {
+        "name": "interim/travel.json",
+        "type": "application/json"
+      },
+      "attendance": {
+        "name": "interim/attendance.json",
+        "type": "application/json"
+      },
+      "expense": {
+        "name": "interim/expense.json",
+        "type": "application/json"
+      },
+      "fees": {
+        "name": "interim/fees.json",
+        "type": "application/json"
+      }
+    },
+    "confirmed": {
+      "schedule": {
+        "name": "confirmed/schedule.json",
+        "type": "application/json"
+      },
+      "dispatch": {
+        "name": "confirmed/dispatch.json",
+        "type": "application/json"
+      },
+      "roster": {
+        "name": "confirmed/roster.json",
+        "type": "application/json"
+      },
+      "license-index": {
+        "name": "confirmed/license-index.json",
+        "type": "application/json"
+      },
+      "north-cert": {
+        "name": "confirmed/north-cert.json",
+        "type": "application/json"
+      },
+      "east-cert": {
+        "name": "confirmed/east-cert.json",
+        "type": "application/json"
+      },
+      "travel": {
+        "name": "confirmed/travel.json",
+        "type": "application/json"
+      },
+      "attendance": {
+        "name": "confirmed/attendance.json",
+        "type": "application/json"
+      },
+      "expense": {
+        "name": "confirmed/expense.json",
+        "type": "application/json"
+      },
+      "fees": {
+        "name": "confirmed/fees.json",
+        "type": "application/json"
+      }
+    }
+  },
+  "actions": {
+    "substitute": {
+      "appointment": "AP-27",
+      "result": "accepted"
+    },
+    "inspect": {
+      "appointment": "AP-27",
+      "result": "confirmed"
+    }
+  },
+  "known": {
+    "opening": {},
+    "interim": {},
+    "confirmed": {}
+  },
+  "statusField": "result",
+  "inspectStates": {
+    "substitute": "accepted"
+  },
+  "lateAction": null
+}
