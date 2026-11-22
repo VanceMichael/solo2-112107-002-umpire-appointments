@@ -8,6 +8,6 @@
   },
   "scripts": {
     "source": "node source.mjs",
-    "test": "node --test source.test.mjs"
+    "test": "node --test"
   }
 }
